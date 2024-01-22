@@ -1,0 +1,50 @@
+*
+{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+
+h1
+{
+    text-align: center;
+    background-color: whitesmoke;
+    width: 20%;
+    margin-left: 610px;
+}
+
+
+form
+{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+}
+
+.row
+{
+    padding-top: 20px;
+    width: 54%;
+    padding-left: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.activeColor
+{
+    padding-top: 5px;
+    border: 2px solid grey;
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+
+
+.pointer
+{
+    cursor: pointer;
+    width: 20%;
+    padding-top: 5px;
+
+}
